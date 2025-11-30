@@ -4,7 +4,7 @@ I built this small TypeScript project to get comfortable with the language and i
 
 TurboTS is a lightweight command-line tool that manages a small list of tasks and shows a couple of recursive functions running in the terminal. It’s a quick way to explore how TypeScript structures code and enforces types while keeping everything easy to follow.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1l6Wf5DM-FI)
 
 # Development Environment
 
