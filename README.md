@@ -24,6 +24,7 @@ Here are a few resources I used while working on the project:
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Node](https://nodejs.org/en)
 - [W3Schools TypeScript Guide](https://www.w3schools.com/typescript/)
+- [DigitalOcean – Starting a New TypeScript Project](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 
 # Future Work
 
